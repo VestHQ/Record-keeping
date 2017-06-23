@@ -1,4 +1,3 @@
 # Record-keeping
 
-first draft on random data
-need IRS rules to complete
+First draft on random data. Need IRS rules to complete.
